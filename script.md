@@ -2,19 +2,28 @@ Agile is not going to save you!
 
 Now, before you label me a heretic, let me explain what I mean. I was first introduced to 'agile' in 2011 and have been a fan of agile principles ever since. 
 
-In fact, some of my friends would label me a agile fanboy. I've read agile books, run agile simulations, attended agile workshops, spoken at agile conferences and even been a been a scrum master! 
+In fact, some of my friends would label me a agile fanboy. I've read agile books, run agile simulations, attend agile workshops, speak at agile conferences and even had a scrum master certification! 
 
 So why the agile hate?
 
-Over the last five years I've seen a mindset emerge from many managers that really worries me - agile has become their mythical silver bullet, something that if their people could just do right all their software problems would go away.
+Over the last five years I've seen a mindset emerge that really worries me - it seems to stem largely from the management side of organizations and it goes something like this.... If we get agile right our problems around software development will be solved. 
 
-Today I would like to challenge that mindset.
+Today I would like to explore one reason why that mindset is so dangerous.
 
 # What do we mean about agile
 
-The first thing is what do we mean when we say agile?
+The first thing I would like to ask is what do we think of when we say agile? Is agile a family of processes? Is it a product we can buy? Is it a mindset or culture?
 
-Well turns out this is a loaded word. Agile means different things to different people. When I was first introduced to agile it meant creating software in a way that you could respond quickly to change. This was applicable at all levels, from the code you wrote to the way you defined your requirements and interacted as a team. Sadly, now days when I ask people what they think about when they I say agile they talk to me about standups, user stories, cross functional teams, iterations and sprints. 
+The reality is agile means different things to different people. For instance, over the last few months I have been involved in interviewing a lot of people for software development positions. One of the questions I love to ask is what does agile mean to them. I've been surprised by the responses. 
+
+I put most of the responses into one of three buckets
+
+Agile is Scrum - for many when I ask them what agile is, they talk to me about, Scrum - for them agile is a specific process with a sprint with a set of meetings.
+Agile is a Scrum, Kanban & Lean - For others they go beyond this to include other process methodologies, they might mention that agile can be Kanban or Scrum or a mix of them.
+Agile is a set of values - The third group tends to talk about values, around agile being about getting quick feedback or not having hard requirements.
+
+
+When I was first introduced to agile it meant creating software in a way that you could respond quickly to change. This was applicable at all levels, from the code you wrote to the way you defined your requirements and interacted as a team. Sadly, now days when I ask people what they think about when they I say agile they talk to me about standups, user stories, cross functional teams, iterations and sprints. 
 
 
 
