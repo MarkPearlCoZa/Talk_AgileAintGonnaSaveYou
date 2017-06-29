@@ -23,6 +23,7 @@ Agile is a Scrum, Kanban & Lean - For others they go beyond this to include othe
 Agile is a set of values - The third group tends to talk about values, around agile being about getting quick feedback or not having hard requirements.
 
 
+
 When I was first introduced to agile it meant creating software in a way that you could respond quickly to change. This was applicable at all levels, from the code you wrote to the way you defined your requirements and interacted as a team. Sadly, now days when I ask people what they think about when they I say agile they talk to me about standups, user stories, cross functional teams, iterations and sprints. 
 
 
