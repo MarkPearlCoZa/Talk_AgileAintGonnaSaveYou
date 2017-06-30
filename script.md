@@ -1,15 +1,23 @@
 ### The ordinary world
 
-The ordinary world is a place where we are doing being agile we speak about being able to but we haven't really changed how we make software. 
-We are still code that is resistant to change
+The ordinary world is a place where we have embraced change in our interactions - we have embraced things like scrum, kanban, stand ups, backlogs, small user stories, etc. - but under the hood how we make software has fundamentally not changed. 
+
+We are still writing code that is not able to respond to the change. 
+We still have infrastructe that makes deploying code a long a laborious process
+Our systems are change resistant.
 
 ### Call to adventure
 
-Software is not just about changing our interactions, it is also about us changing how we make things
+We need to improve ourselves technically to be able develop systems that are able to change at the same cadence that our interactions are.
+The key to success is not just about changing our interactions, it is also about us changing how we fundamentally make things, how we code.
+We need to embrace techniques and practices that let us change direction quickly and confidently.
 
 ### Refusal of the call
 
-Management isn't able to help us. They provide tools like video learnings and conferences where we learn about technology. Very rarely do we learn about the deeper princples around creating software.
+The system you are working on now is stuck system, you cannot change it, you've tried and it's too hard
+You are too busy trying to deliver business features to have time to learn how to change how you do things technically
+You don't need to change, you are good enough
+You think that the techniques like TDD, Refactoring, Automation are great in theory, but in the real world they are not practical
 
 ### Meeting with the mentor
 
@@ -17,7 +25,21 @@ Management isn't able to help us. They provide tools like video learnings and co
 
 ### Crossing the threshold
 
-Tests, allies, enemies
+#### Tests
+
+* Your business stakeholders are putting massive pressure on you to meet a deadline, you need to get the next feature out by X date or else there will be major consequences
+* You are asked to work on a system where it is near impossible to do these things, the technology is old, it doesn't have the tools you need
+* You work with other developers who do not value these things, they tell you it's a fad that there is nothing wrong with how things are done right now
+
+#### Allies
+
+* Platform manifesto & platform principles
+* Other like minded software professionals scattered across the organization
+
+#### Enemies
+
+* People who do their own thing
+* Business that is always asking you to take a shortcut
 
 ### Approach
 
@@ -28,6 +50,8 @@ Tests, allies, enemies
 ### The Road Back
 
 ### Resurrection Hero
+
+* A seasoned professional who is able to consistently and reliably roll out quality software that can adequately respond to change
 
 ### Return with Elixir
 
