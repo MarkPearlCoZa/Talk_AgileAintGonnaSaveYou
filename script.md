@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1MMgC8593SKLAsz23Y7kbRGYasrjiMc-KZcrGrvUByPA/edit?usp=sharing_eil&ts=5938997b
+
 Why is Agile not enough?
 
 ### The ordinary world
