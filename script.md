@@ -1,27 +1,32 @@
+Why is Agile not enough?
+
 ### The ordinary world
 
-The ordinary world is a place where we have embraced change in our interactions - we have embraced things like scrum, kanban, stand ups, backlogs, small user stories, etc. - but under the hood how we make software has fundamentally not changed. 
-
-We are still writing code that is not able to respond to the change. 
-We still have infrastructe that makes deploying code a long a laborious process
-Our systems are change resistant.
+In software we have project stuff and technical stuff that helps us deliver working software
+As an organization we've progressed well on the project stuff, we have adopted practices like scrum, kanban, stand ups, backlogs, user stories, retrospectives etc.
+We have re-organized teams along customer lines (alliances)
+We even have a role in the organization called an 'agile coach', who focusses on helping us change our interactions
+From technical perspective there has not been such a radical change, in many instances we are still writing code in the same style of yester years. 
+We are still learning the same way we learn't years several years ago.
 
 ### Call to adventure
 
+We need to embrace technical techniques and practices that let us change direction quickly and confidently.
 We need to improve ourselves technically to be able develop systems that are able to change at the same cadence that our interactions are.
-The key to success is not just about changing our interactions, it is also about us changing how we fundamentally make things, how we code.
-We need to embrace techniques and practices that let us change direction quickly and confidently.
+The key to success is not just about changing our interactions, it is also about us changing how we fundamentally make things, the not so visible things.
 
 ### Refusal of the call
 
-The system you are working on now is stuck system, you cannot change it, you've tried and it's too hard
-You are too busy trying to deliver business features to have time to learn how to change how you do things technically
-You don't need to change, you are good enough
+As managers
+We have also tried to support our technical people in continous learning, we pay for PluralSight Licenses, send people to conferences and pay for workshops.
 You think that the techniques like TDD, Refactoring, Automation are great in theory, but in the real world they are not practical
+You don't need to change how you make things, this is just a fad that will eventually go away.
+The system you are working on now is stuck system, I cannot change it until we upgrade to technology X, it's just too hard the way it is now
+You are too busy trying to deliver business features to have time to learn how to change how you do things technically
 
 ### Meeting with the mentor
 
-
+How are we growing technical excellence.
 
 ### Crossing the threshold
 
@@ -38,8 +43,9 @@ You think that the techniques like TDD, Refactoring, Automation are great in the
 
 #### Enemies
 
-* People who do their own thing
-* Business that is always asking you to take a shortcut
+* People who do their own thing, believe that they are good enough
+*
+
 
 ### Approach
 
